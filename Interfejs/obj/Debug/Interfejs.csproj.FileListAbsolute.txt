@@ -1,0 +1,8 @@
+C:\Users\jakub\source\repos\Interfejs\obj\Debug\Interfejs.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\Interfejs\obj\Debug\Interfejs.csproj.SuggestedBindingRedirects.cache
+C:\Users\jakub\source\repos\Interfejs\obj\Debug\Interfejs.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\Interfejs\bin\Debug\Interfejs.exe.config
+C:\Users\jakub\source\repos\Interfejs\bin\Debug\Interfejs.exe
+C:\Users\jakub\source\repos\Interfejs\bin\Debug\Interfejs.pdb
+C:\Users\jakub\source\repos\Interfejs\obj\Debug\Interfejs.exe
+C:\Users\jakub\source\repos\Interfejs\obj\Debug\Interfejs.pdb
